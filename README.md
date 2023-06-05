@@ -1,4 +1,4 @@
-# Machine Learning (ML)
+# Roadmap to Machine Learning (ML)
 
 1. Maths 
    - Linear Algebra (Matrix, Vector)
